@@ -1,3 +1,3 @@
 # Excel-Kickstarter-Analysis
 
-This is a project about...
+This is a project about Excel
